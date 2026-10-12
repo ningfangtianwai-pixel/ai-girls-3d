@@ -1,0 +1,23 @@
+{
+  "id": "C06",
+  "slug": "claude-adult",
+  "name": "Claude · 成年",
+  "blender_version": "4.5.14 LTS",
+  "height_m": 1.68,
+  "vertices": 130465,
+  "triangles": 260825,
+  "bones": 0,
+  "shape_keys": {
+    "C06_Full_Working_Mesh": [
+      "Basis",
+      "Head_Nod",
+      "Head_Turn",
+      "Breath",
+      "Arm_L",
+      "Arm_R"
+    ]
+  },
+  "source_images_packed": 4,
+  "animated_clips": 0,
+  "license": "CC-BY-4.0"
+}

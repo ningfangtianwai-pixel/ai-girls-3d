@@ -1,0 +1,41 @@
+{
+  "id": "C02",
+  "slug": "whale-child",
+  "name": "小鲸鲸 · 幼年",
+  "blender_version": "4.5.14 LTS",
+  "height_m": 0.99989,
+  "vertices": 45445,
+  "triangles": 90893,
+  "bones": 0,
+  "shape_keys": {
+    "C02_Full_Working_Mesh": [
+      "Basis",
+      "Head_Nod",
+      "Head_Turn",
+      "Breath",
+      "Arm_L",
+      "Arm_R"
+    ],
+    "C02_Quad_Lips": [
+      "Basis",
+      "Mouth_A",
+      "Mouth_I",
+      "Mouth_U",
+      "Head_Nod",
+      "Head_Turn",
+      "Breath"
+    ],
+    "C02_Mouth_Cavity": [
+      "Basis",
+      "Mouth_A",
+      "Mouth_I",
+      "Mouth_U",
+      "Head_Nod",
+      "Head_Turn",
+      "Breath"
+    ]
+  },
+  "source_images_packed": 4,
+  "animated_clips": 0,
+  "license": "CC-BY-4.0"
+}

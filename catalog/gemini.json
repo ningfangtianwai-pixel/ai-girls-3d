@@ -1,0 +1,39 @@
+{
+  "id": "C03",
+  "slug": "gemini",
+  "name": "Gemini",
+  "blender_version": "4.5.14 LTS",
+  "height_m": 1.54992,
+  "vertices": 133956,
+  "triangles": 267626,
+  "bones": 0,
+  "shape_keys": {
+    "C03_Opening_Working_Mesh": [
+      "Basis",
+      "Head_Nod",
+      "Head_Turn",
+      "Breath"
+    ],
+    "C03_Quad_Lips": [
+      "Basis",
+      "Mouth_A",
+      "Mouth_I",
+      "Mouth_U",
+      "Head_Nod",
+      "Head_Turn",
+      "Breath"
+    ],
+    "C03_Mouth_Cavity": [
+      "Basis",
+      "Mouth_A",
+      "Mouth_I",
+      "Mouth_U",
+      "Head_Nod",
+      "Head_Turn",
+      "Breath"
+    ]
+  },
+  "source_images_packed": 5,
+  "animated_clips": 0,
+  "license": "CC-BY-4.0"
+}

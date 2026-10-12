@@ -1,0 +1,57 @@
+{
+  "version": "v1.0.0",
+  "publisher": "ningfangtianwai-pixel",
+  "models": 7,
+  "license": "CC-BY-4.0",
+  "assets": [
+    {
+      "name": "chatgpt-adult.zip",
+      "bytes": 41836420,
+      "sha256": "8a60612be552fe8f36bde20e1686be6fc8d383db037705cf57bebfe503b2a29c",
+      "files": 11,
+      "slug": "chatgpt-adult"
+    },
+    {
+      "name": "chatgpt-child.zip",
+      "bytes": 46274056,
+      "sha256": "fd650c1436879b9e311b10a50d2a5d1b3499db56aa6c34b39473b386146a1915",
+      "files": 10,
+      "slug": "chatgpt-child"
+    },
+    {
+      "name": "claude-adult.zip",
+      "bytes": 47990715,
+      "sha256": "2b083d40f9004bc2a6785dfc602ba3c3a8301e12f05440b78ca2a0d550282a1a",
+      "files": 10,
+      "slug": "claude-adult"
+    },
+    {
+      "name": "claude-child.zip",
+      "bytes": 48178078,
+      "sha256": "6bdf24e6986bc36c1b5f9401acdec9d295720344f866aac1f1f7154f87717578",
+      "files": 10,
+      "slug": "claude-child"
+    },
+    {
+      "name": "gemini.zip",
+      "bytes": 44145076,
+      "sha256": "ac311d9f16815ac952b4b20a456a2878e02fab34777325c7faa1afb16e03fd11",
+      "files": 11,
+      "slug": "gemini"
+    },
+    {
+      "name": "whale-adult.zip",
+      "bytes": 38253857,
+      "sha256": "fa858f370ca4a485e9512d11514fb15ecafc7a6645d03aefa668bc6613f8c171",
+      "files": 13,
+      "slug": "whale-adult"
+    },
+    {
+      "name": "whale-child.zip",
+      "bytes": 32774962,
+      "sha256": "1731ef20764ad8410affb147d2bbead8dd5df29acd6f907d2b1229df13371146",
+      "files": 11,
+      "slug": "whale-child"
+    }
+  ]
+}

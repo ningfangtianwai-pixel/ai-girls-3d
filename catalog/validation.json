@@ -1,0 +1,93 @@
+[
+  {
+    "slug": "chatgpt-adult",
+    "blend_reopened": true,
+    "packed_images": 5,
+    "glb_reimported": true,
+    "embedded_images": 2,
+    "glb_height_m": 1.7199999690055847,
+    "source_vertices": 132001,
+    "glb_meshes": 3,
+    "glb_skins": 0,
+    "animation_clips": 0,
+    "no_external_dependencies": true
+  },
+  {
+    "slug": "chatgpt-child",
+    "blend_reopened": true,
+    "packed_images": 4,
+    "glb_reimported": true,
+    "embedded_images": 1,
+    "glb_height_m": 1.0499999523162842,
+    "source_vertices": 127864,
+    "glb_meshes": 1,
+    "glb_skins": 0,
+    "animation_clips": 0,
+    "no_external_dependencies": true
+  },
+  {
+    "slug": "claude-adult",
+    "blend_reopened": true,
+    "packed_images": 4,
+    "glb_reimported": true,
+    "embedded_images": 1,
+    "glb_height_m": 1.6799999475479126,
+    "source_vertices": 130465,
+    "glb_meshes": 1,
+    "glb_skins": 0,
+    "animation_clips": 0,
+    "no_external_dependencies": true
+  },
+  {
+    "slug": "claude-child",
+    "blend_reopened": true,
+    "packed_images": 4,
+    "glb_reimported": true,
+    "embedded_images": 1,
+    "glb_height_m": 1.0499999523162842,
+    "source_vertices": 130689,
+    "glb_meshes": 1,
+    "glb_skins": 0,
+    "animation_clips": 0,
+    "no_external_dependencies": true
+  },
+  {
+    "slug": "gemini",
+    "blend_reopened": true,
+    "packed_images": 5,
+    "glb_reimported": true,
+    "embedded_images": 2,
+    "glb_height_m": 1.5499999523162842,
+    "source_vertices": 133956,
+    "glb_meshes": 3,
+    "glb_skins": 0,
+    "animation_clips": 0,
+    "no_external_dependencies": true
+  },
+  {
+    "slug": "whale-adult",
+    "blend_reopened": true,
+    "packed_images": 6,
+    "glb_reimported": true,
+    "embedded_images": 4,
+    "glb_height_m": 1.6501126038929215,
+    "source_vertices": 76517,
+    "glb_meshes": 7,
+    "glb_skins": 1,
+    "animation_clips": 0,
+    "no_external_dependencies": true
+  },
+  {
+    "slug": "whale-child",
+    "blend_reopened": true,
+    "packed_images": 4,
+    "glb_reimported": true,
+    "embedded_images": 2,
+    "glb_height_m": 0.9998891353607178,
+    "source_vertices": 45445,
+    "glb_meshes": 3,
+    "glb_skins": 0,
+    "animation_clips": 0,
+    "no_external_dependencies": true
+  }
+]

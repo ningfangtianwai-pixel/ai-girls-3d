@@ -1,0 +1,7 @@
+tools/
+.local/
+*.blend
+*.blend1
+*.glb
+*.zip
+__pycache__/

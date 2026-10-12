@@ -1,0 +1,23 @@
+{
+  "id": "C04",
+  "slug": "chatgpt-child",
+  "name": "ChatGPT · 幼年",
+  "blender_version": "4.5.14 LTS",
+  "height_m": 1.05,
+  "vertices": 127864,
+  "triangles": 255886,
+  "bones": 0,
+  "shape_keys": {
+    "C04_Full_Working_Mesh": [
+      "Basis",
+      "Head_Nod",
+      "Head_Turn",
+      "Breath",
+      "Arm_L",
+      "Arm_R"
+    ]
+  },
+  "source_images_packed": 4,
+  "animated_clips": 0,
+  "license": "CC-BY-4.0"
+}

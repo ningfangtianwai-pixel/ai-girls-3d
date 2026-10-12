@@ -1,0 +1,23 @@
+{
+  "id": "C07",
+  "slug": "claude-child",
+  "name": "Claude · 幼年",
+  "blender_version": "4.5.14 LTS",
+  "height_m": 1.05,
+  "vertices": 130689,
+  "triangles": 261202,
+  "bones": 0,
+  "shape_keys": {
+    "C07_Full_Working_Mesh": [
+      "Basis",
+      "Head_Nod",
+      "Head_Turn",
+      "Breath",
+      "Arm_L",
+      "Arm_R"
+    ]
+  },
+  "source_images_packed": 4,
+  "animated_clips": 0,
+  "license": "CC-BY-4.0"
+}

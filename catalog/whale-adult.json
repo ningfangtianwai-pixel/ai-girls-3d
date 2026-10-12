@@ -1,0 +1,54 @@
+{
+  "id": "C01",
+  "slug": "whale-adult",
+  "name": "小鲸鲸 · 成年",
+  "blender_version": "4.5.14 LTS",
+  "height_m": 1.64968,
+  "vertices": 76517,
+  "triangles": 152730,
+  "bones": 25,
+  "shape_keys": {
+    "C01_Full_Animation_Mesh": [
+      "Basis",
+      "Blink_R",
+      "Blink_L",
+      "Brows_Soft",
+      "Brows_Worry"
+    ],
+    "C01_Mouth_Quad_Patch.001": [
+      "Basis",
+      "Mouth_A",
+      "Mouth_I",
+      "Mouth_U",
+      "Smile",
+      "Frown"
+    ],
+    "C01_Mouth_Cavity.001": [
+      "Basis",
+      "Mouth_A",
+      "Mouth_I",
+      "Mouth_U",
+      "Smile",
+      "Frown"
+    ],
+    "C01_Blink_R_UpperLid.001": [
+      "Basis",
+      "Close"
+    ],
+    "C01_Blink_R_Lash.001": [
+      "Basis",
+      "Close"
+    ],
+    "C01_Blink_L_UpperLid.001": [
+      "Basis",
+      "Close"
+    ],
+    "C01_Blink_L_Lash.001": [
+      "Basis",
+      "Close"
+    ]
+  },
+  "source_images_packed": 6,
+  "animated_clips": 0,
+  "license": "CC-BY-4.0"
+}
